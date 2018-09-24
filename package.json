@@ -1,11 +1,11 @@
 {
-  "name": "polacode",
-  "displayName": "Polacode",
+  "name": "polacode-custom",
+  "displayName": "Polacode-custom",
   "description": "📸  Polaroid for your code",
   "version": "0.2.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/octref/polacode.git"
+    "url": "https://github.com/damianof/polacode.git"
   },
   "publisher": "pnp",
   "keywords": [
@@ -30,7 +30,7 @@
     "commands": [
       {
         "command": "polacode.activate",
-        "title": "Polacode 📸"
+        "title": "Polacode-custom📸"
       }
     ]
   }
